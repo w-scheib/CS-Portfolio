@@ -8,3 +8,7 @@ img {
    border-color: rgb(241, 196, 15);
    float: left;
 }
+
+.logo {
+   width: 50;  
+}
