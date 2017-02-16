@@ -3,8 +3,8 @@ body {
 }
 
 img {
-   width: 25%;
-   border-radius: 10px;
+   width: 50%;
+   border-radius: 25px;
    border-color: rgb(241, 196, 15);
    float: left;
 }
