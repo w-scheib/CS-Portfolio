@@ -3,7 +3,7 @@ body {
 }
 
 img {
-   width: 75px;
+   width: 25%;
    border-radius: 10px;
    border-color: rgb(241, 196, 15);
    float: left;
