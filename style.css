@@ -15,6 +15,7 @@ imgIf I Use It {
 
 .hovereffect {
 width:15%;
+length:15%;
 float:left;
 overflow:hidden;
 position:relative;
@@ -24,6 +25,7 @@ cursor:default;
 
 .hovereffect .overlay {
 width:15%;
+length:15%;
 position:absolute;
 overflow:hidden;
 top:0;
