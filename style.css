@@ -10,7 +10,7 @@ imgIf I Use It {
 }
 
 .btn-group button {
-    background-color: blue; /* Green background */
+    background-color: rgb(20, 199, 222); /* Green background */
     border: 30px black; /* Green border */
     color: white; /* White text */
     padding: 18px 24px; /* Some padding */
@@ -31,7 +31,7 @@ imgIf I Use It {
 
 /* Add a background color on hover */
 .btn-group button:hover {
-    background-color: rgb(20, 199, 222);
+    background-color: rgb(241, 196, 15);
 }
 
 /* unvisited link */
