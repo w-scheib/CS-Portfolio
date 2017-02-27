@@ -8,3 +8,49 @@ imgIf I Use It {
 .logo {
    width: 15%;  
 }
+
+.btn-group button {
+    background-color: purple; /* Green background */
+    border: 30px black; /* Green border */
+    color: white; /* White text */
+    padding: 18px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+}
+
+.btn-group button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+    background-color: rgb(241, 196, 15);
+}
+
+/* unvisited link */
+.btn-group  a:link {
+    color: white;
+    text-decoration:none;
+}
+
+/* visited link */
+.btn-group  a:visited {
+    color: white;
+}
+
+/* mouse over link */
+.btn-group  a:hover {
+    color: white;
+}
+
+/* selected link */
+.btn-group  a:active {
+    color: white;
+}
