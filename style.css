@@ -54,3 +54,8 @@ imgIf I Use It {
 .btn-group  a:active {
     color: white;
 }
+
+h1 {
+  color: rgb(20, 199, 222);
+  float: center;
+}
