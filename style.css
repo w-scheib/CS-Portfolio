@@ -5,6 +5,11 @@ imgIf I Use It {
    float: left;
 }
 
+table, th, td {
+    border: 1px solid rgb(20, 199, 222);
+    border-style: groove;
+}
+
 .logo {
    width: 15%;  
 }
